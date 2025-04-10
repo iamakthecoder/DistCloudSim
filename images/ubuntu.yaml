@@ -1,0 +1,7 @@
+name: ubuntu
+os: ubuntu
+cpu: 2
+memory: 2048
+preinstalled:
+  - curl
+  - python3

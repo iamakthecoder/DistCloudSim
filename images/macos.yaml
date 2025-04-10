@@ -1,0 +1,8 @@
+name: macos
+os: macos
+cpu: 2
+memory: 2048
+preinstalled:
+  - curl
+  - python3
+  - git

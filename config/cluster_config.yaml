@@ -1,0 +1,12 @@
+cluster:
+  controller_nodes:
+    - id: controller1
+      ip: 127.0.0.1
+      port: 5000
+  compute_nodes:
+    - id: compute1
+      ip: 127.0.0.1
+      port: 6000
+    - id: compute2
+      ip: 127.0.0.1
+      port: 6001
